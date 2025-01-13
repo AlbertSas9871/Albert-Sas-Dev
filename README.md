@@ -1,6 +1,6 @@
 # Albert Sas Portfolio
 
-Welcome to my web development portfolio! This repository showcases screenshots and details of the websites and projects I’ve worked on since 2022. Feel free to explore and learn more about my work.
+Welcome to my web development portfolio! This repository showcases a selection of the websites and projects I’ve worked on. Feel free to explore and discover some of the work I’ve done.
 
 ## What You’ll Find Here
 - Screenshots of completed web development projects.
